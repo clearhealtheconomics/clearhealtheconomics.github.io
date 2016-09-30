@@ -38,9 +38,9 @@ p {
   line-height: 28px;
 }
 ul {
-  padding: 0;
-  margin: 0;
-  list-style: none;
+  padding: 10px;
+  margin: 3px;
+  text-align: left;
 }
 a,
 a:active,
